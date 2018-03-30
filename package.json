@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-restful-api",
+  "version": "1.0.1",
+  "description": "This is Resfful APi with node js",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Beta Priyoko <beta.priyoko@students.amikom.ac.id>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "md5": "^2.2.1",
+    "mysql": "^2.15.0"
+  }
+}
